@@ -1,15 +1,17 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:1e293b,100:38bdf8&text=Fernando%20Chirinos&fontColor=ffffff&fontSize=55&fontAlignY=36&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,50:1a2233,100:00d4aa&text=Chexgun&fontColor=00ff9d&fontSize=65&fontAlignY=36&animation=fadeIn"/>
 
-# 👋 Hi, I'm Fernando Chirinos
-### Systems Engineering • Artificial Intelligence • Software • Enterprise Architecture
+<img src="https://skillicons.dev/icons?i=linux,git,github,docker,bash,vim&theme=dark"/>
+
+# 👋 Hi, I'm Chexgun
+### Systems Engineer • Software Developer • Linux & Cloud
 
 <p>
-Systems Engineering student at the National University of Engineering (UNI, Peru). I build software, apply AI to real problems, model business processes and enjoy turning ideas into working products.
+I build software, work with Linux environments and cloud infrastructure, and turn ideas into real products — from full-stack apps to data-driven prototypes. Always looking to take side projects further, toward something that could become a startup.
 </p>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=fernandochirinos&label=PROFILE%20VIEWS&style=for-the-badge&color=38bdf8"/>
+<img src="https://komarev.com/ghpvc/?username=chexgun&label=PROFILE%20VIEWS&style=for-the-badge&color=00d4aa"/>
 </p>
 </div>
 
@@ -17,7 +19,7 @@ Systems Engineering student at the National University of Engineering (UNI, Peru
 
 <div align="center">
 
-## 🎓 Education & Focus
+## 🖥️ My Environment
 
 </div>
 
@@ -27,14 +29,12 @@ Systems Engineering student at the National University of Engineering (UNI, Peru
 
 ```text
 ████████████████████████████████
-   National University of
-   Engineering (UNI) — Peru
+   Linux
 ████████████████████████████████
-Career     :: Systems Engineering
-Semester   :: 7th
-Focus      :: Enterprise Architecture
-              AI & Data
-              Full Stack Dev
+OS         :: Ubuntu / Debian
+Terminal   :: Zsh
+Editor     :: VS Code / Vim
+Shell Tools:: Bash scripting
 ████████████████████████████████
 ```
 
@@ -43,12 +43,12 @@ Focus      :: Enterprise Architecture
 
 ```text
 ████████████████████████████████
-      Currently Building
+      Cloud & Data
 ████████████████████████████████
-- Enterprise Architecture (TOGAF)
-- BPM process modeling (BPMN 2.0)
-- Full Stack web apps
-- MILP / optimization models
+Cloud     :: Google Cloud
+DB        :: SQL, Supabase
+Data      :: Pandas, Numpy
+Runtime   :: Node.js
 ████████████████████████████████
 ```
 
@@ -60,33 +60,18 @@ Focus      :: Enterprise Architecture
 
 <div align="center">
 
-# 🚀 About Me
+# 🧱 Core Foundations
 
 </div>
 
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 Currently Learning
-- Enterprise Architecture (TOGAF ADM)
-- Cloud Computing
-- Machine Learning
-- Advanced SQL & Databases
-
-</td>
-<td width="50%">
-
-### ⚡ Interests
-- Artificial Intelligence
-- Business Process Management (BPM)
-- Full Stack Development
-- Cybersecurity
-- Startups & Product Building
-
-</td>
-</tr>
-</table>
+```md
+Data Structures & Algorithms
+Object-Oriented Programming
+Conceptual Data Modeling
+Database Design
+Computer Architecture & Networks
+Software Engineering
+```
 
 ---
 
@@ -94,9 +79,9 @@ Focus      :: Enterprise Architecture
 
 # 🛠 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,html,css,python,java,sql,git,github&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,nodejs,react,html,css,sql&theme=dark"/>
 <br><br>
-<img src="https://skillicons.dev/icons?i=vscode,docker,gcp,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,gcp,vscode&theme=dark"/>
 
 </div>
 
@@ -106,10 +91,10 @@ Focus      :: Enterprise Architecture
 
 # 📊 GitHub Analytics
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fernandochirinos&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=fernandochirinos&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=chexgun&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=chexgun&theme=dracula&hide_border=true"/>
 <br><br>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandochirinos&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chexgun&layout=compact&theme=dracula&hide_border=true&langs_count=8"/>
 
 </div>
 
@@ -122,62 +107,17 @@ Focus      :: Enterprise Architecture
 </div>
 
 ```console
-$ whoami
+$ fastfetch
 
-Fernando Chirinos
-
-Role:
-Systems Engineering Student @ UNI
-
-Current Focus:
-Enterprise Architecture (TOGAF)
-Artificial Intelligence
-Software Engineering
-Business Process Management
-
-Location:
-Lima, Peru
-
-Dream:
-Build systems and technology that create real impact.
+╭──────────────────────────────────────────────╮
+│ User      :: Chexgun                         │
+│ OS        :: Linux                           │
+│ Shell     :: Zsh                              │
+│ Editor    :: VS Code / Vim                    │
+│ Focus     :: Full Stack • Data • Cloud        │
+│ Status    :: Building the next project        │
+╰──────────────────────────────────────────────╯
 ```
-
----
-
-<div align="center">
-
-# 🌟 Current Focus
-
-<table>
-<tr>
-<td align="center">
-
-### 🏛️ Enterprise Arch.
-TOGAF ADM
-BPMN 2.0
-Process Modeling
-
-</td>
-<td align="center">
-
-### 🤖 AI & Data
-Machine Learning
-Data Analysis
-Automation
-
-</td>
-<td align="center">
-
-### 💻 Software Dev
-Full Stack
-Node.js
-Supabase
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
@@ -188,36 +128,31 @@ Supabase
 </div>
 
 ```md
-🏛️ TOGAF ADM Enterprise Architecture — Municipalidad Metropolitana de Lima
-    Full Architecture Development Method project, from Preliminary to Phase H
-
-🩺 BPM Process Improvement — Centro Médico UNI
-    BPMN 2.0 redesign + full-stack Node.js/SQLite prototype
-
 👕 Persys-2 — Clothing Management Web App
-    Migration from localStorage to Supabase, order & logistics modules
+    Full-stack app migrating from localStorage to Supabase (cloud DB)
 
-⚙️ MILP Optimization Model — Tech Peru
-    Mixed-Integer Linear Programming model built in LINGO
+🏥 Healthcare Management Prototype
+    Full-stack web app (Node.js, Express, SQLite) for clinic operations
 
-🔐 CientíficaHack 2025
-    Competitive hackathon participation
+🤖 Hackademy — AI-Powered Learning Platform
+    ML model reaching 82% accuracy in early difficulty detection
+
+⚙️ MILP Optimization Model
+    Mixed-Integer Linear Programming model (LINGO) for a real client
 ```
 
 ---
 
 <div align="center">
 
-## 🏆 Leadership & Experience
+## 🏆 Competitions & Achievements
 
 </div>
 
 ```md
-🏆 Quality Area — Proyecta UNI
-🏆 Experience — TinkuyLabs
-🏆 Experience — Inspírate UNI
-🏆 Experience — Entel Peru
-🏆 Participant — CientíficaHack 2025
+🥈 Hackathon BCP — 5th Place
+🎓 CientíficaHack 2025 — National Finalist (AI/ML project)
+🩺 MedTech Hackathon — Finalist, health-tech development
 ```
 
 ---
@@ -226,7 +161,7 @@ Supabase
 
 ## 📈 Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fernandochirinos&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chexgun&theme=dracula&hide_border=true"/>
 
 </div>
 
@@ -236,8 +171,8 @@ Supabase
 
 ## 💬 Quote
 
-> *"Building systems that create opportunities."*
+> *"Learning by building. Shipping by doing."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:38bdf8,100:0f172a"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:00d4aa,100:0d1117"/>
 
 </div>
