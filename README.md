@@ -4,14 +4,14 @@
 <img src="https://skillicons.dev/icons?i=linux,git,github,docker,bash,vim&theme=dark"/>
 
 # 👋 Hi, I'm Chexgun
-### Systems Engineer • Software Developer • Linux & Cloud
+### Hackathon Builder • Software Developer • Linux & Cloud
 
 <p>
-I build software, work with Linux environments and cloud infrastructure, and turn ideas into real products — from full-stack apps to data-driven prototypes. Always looking to take side projects further, toward something that could become a startup.
+I love jumping into hackathons to build tech solutions for real problems — fast prototyping, full-stack apps, and data-driven products. Long-term, I want to take that same energy into building startups. Linux, cloud infrastructure and clean code are my daily tools to get there.
 </p>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=chexgun&label=PROFILE%20VIEWS&style=for-the-badge&color=00d4aa"/>
+<img src="https://komarev.com/ghpvc/?username=CheXgun365&label=PROFILE%20VIEWS&style=for-the-badge&color=00d4aa"/>
 </p>
 </div>
 
@@ -91,10 +91,10 @@ Software Engineering
 
 # 📊 GitHub Analytics
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chexgun&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=chexgun&theme=dracula&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=CheXgun365&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=CheXgun365&theme=dracula&hide_border=true"/>
 <br><br>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chexgun&layout=compact&theme=dracula&hide_border=true&langs_count=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheXgun365&layout=compact&theme=dracula&hide_border=true&langs_count=8"/>
 
 </div>
 
@@ -114,8 +114,8 @@ $ fastfetch
 │ OS        :: Linux                           │
 │ Shell     :: Zsh                              │
 │ Editor    :: VS Code / Vim                    │
-│ Focus     :: Full Stack • Data • Cloud        │
-│ Status    :: Building the next project        │
+│ Focus     :: Hackathons • Full Stack • Cloud  │
+│ Status    :: Building the next startup idea    │
 ╰──────────────────────────────────────────────╯
 ```
 
@@ -153,6 +153,8 @@ $ fastfetch
 🥈 Hackathon BCP — 5th Place
 🎓 CientíficaHack 2025 — National Finalist (AI/ML project)
 🩺 MedTech Hackathon — Finalist, health-tech development
+
+🔭 Always on the lookout for the next hackathon to join
 ```
 
 ---
@@ -161,7 +163,7 @@ $ fastfetch
 
 ## 📈 Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chexgun&theme=dracula&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CheXgun365&theme=dracula&hide_border=true"/>
 
 </div>
 
